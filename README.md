@@ -1,16 +1,24 @@
-## Hi there 👋
+I’m a Senior Cloud & Platform DevOps Engineer focused on designing and operating enterprise-grade platforms that scale across teams, environments, and regulatory boundaries.
 
-<!--
-**zachary-wisler/zachary-wisler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My work centers on building durable systems the kind that reduce operational risk, shorten delivery cycles, and remain understandable years after the original authors move on.
 
-Here are some ideas to get you started:
+I operate at the layer where **architecture, security, governance, and developer velocity** meet.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🏗️ Platform & Cloud Leadership
+
+- **Cloud Platform Architecture**
+  - Azure-centric platform design with strong isolation, governance, and cost controls
+  - Multi-environment and multi-tenant strategies built for real organizational complexity
+- **DevOps & CI/CD at Scale**
+  - Designing and enforcing CI/CD standards across teams
+  - Deep operational knowledge of Azure DevOps pipelines, agents, artifacts, service connections, and identity flows
+- **Infrastructure as a Product**
+  - Terraform module ecosystems consumed across organizations
+  - Policy-driven infrastructure with built-in compliance, guardrails, and regression testing
+- **Security & Risk Reduction**
+  - Least-privilege pipelines, secrets isolation, signed artifacts, and auditable workflows
+  - Identity-first platform design and secure automation patterns
+
+---
